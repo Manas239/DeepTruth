@@ -135,13 +135,13 @@ DeepfakeImageDetector/
 
 ## 🧑‍💻 Developed By
 
-**Manas Doltade**  
-Aspiring Data Scientist(DS) | Deep Learning Enthusiast
+**Deepika Sharma**  
+Aspiring Machine Learning(ML) | Deep Learning Enthusiast
 
-**Deepika Sharma**
-Aspiring Machine Leaning(ML) | Deep Learning Enthusiast
+**Manas Doltade**
+Aspiring Data Science(DS) | Machine Learning Enthunsiast
+
 ---
-
 ## 📬 Feedback / Contributions
 
 Feel free to raise an issue or submit a pull request if you have ideas or improvements!
