@@ -125,7 +125,7 @@ DeepfakeImageDetector/
 
 ---
 
-## Output
+## ✅ Output
  
 <img width="965" height="567" alt="Screenshot 2025-07-13 105934" src="https://github.com/user-attachments/assets/6db1d3bc-bc34-40c1-b14a-9150f695fa41" />
 
