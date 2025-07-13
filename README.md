@@ -84,6 +84,8 @@ A pop-up will show the image with prediction (Real or Fake).
 
 ---
 
+
+
 ## 📦 Project Structure
 
 ```
