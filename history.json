@@ -1,0 +1,25 @@
+{
+  "history": [
+    {
+      "filename": "easy_11_1111.jpg",
+      "label": "Real",
+      "confidence": 77.08,
+      "raw_value": 0.22922632098197937,
+      "timestamp": 1759340559
+    },
+    {
+      "filename": "easy_2_1111.jpg",
+      "label": "Fake",
+      "confidence": 69.46,
+      "raw_value": 0.6946372985839844,
+      "timestamp": 1759339971
+    },
+    {
+      "filename": "real_00004.jpg",
+      "label": "Fake",
+      "confidence": 95.25,
+      "raw_value": 0.9525327682495117,
+      "timestamp": 1759339916
+    }
+  ]
+}

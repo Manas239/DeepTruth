@@ -2,8 +2,8 @@ import os
 import shutil
 
 # Two possible source folders — pick one that actually exists
-real_folder = "archive (6)/real_and_fake_face/training_real"
-fake_folder = "archive (6)/real_and_fake_face/training_fake"
+real_folder = "archive/real_and_fake_face/training_real"
+fake_folder = "archive/real_and_fake_face/training_fake"
 
 # If these don't exist, try this instead:
 # real_folder = "archive (6)/real_and_fake_face_detection/real and fake face/training_real"
