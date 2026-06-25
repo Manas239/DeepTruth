@@ -421,7 +421,7 @@ This project is open-source and available under the **MIT License**. See LICENSE
 | Name | Role | GitHub |
 |------|------|--------|
 | **Manas Doltade** | Data Science & ML Engineer | [@Manas239](https://github.com/Manas239) |
-| **Deepika Sharma** | ML & Deep Learning Enthusiast | [Profile](#) |
+| **Deepika Sharma** | ML & Deep Learning Enthusiast | [@Deepika14145](https://github.com//Deepika14145) |
 
 ---
 
